@@ -28,5 +28,9 @@ Task N.3: take any random number and check whether that given number is prime or
 note: number greater than 1 that can only be divided evenly by 1 and itself
 
 algorithm// homework for this week
-
-
+step 1: i am taking a counter which starts from 2
+step 2: i make this counter to increase continuously until the randomnumber -1// that is, if the random number is 13, the counter will start from 2 to 13- 1
+step 3: now take the initial value of counter and make it divisible with randomnumber
+step 4: if it is divisible, increment the value of counter and check for the answer
+step 5: if none of the value of the counter is divisible, then it is a prime number
+step 6: if any of the counter is divisible, increase randomnumber by +1 if it is not prime number
