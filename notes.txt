@@ -20,7 +20,7 @@ b = 10
 
 algorithm//
 step 1: i will use compounding techniques for swapping
-a = a + b // i am simply adding up the two variables 20 + 10= 30 which is the current val of a
+a = a + b // i am simply adding up the two variables 20 + 10= 30 which is the current value of a
 step 2: b = a - b  // now the new value of a is 30 and b is 10, 30 - 10 becomes the new value of b which is 20
 step 3: a = a - b // since the value of a is 30 and the new value of b is 20, 30 - 20 = 10 becomes the new value of a
 
