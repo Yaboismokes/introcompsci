@@ -1,0 +1,32 @@
+Task N.1:
+input // the problem here is to swap the two numbers
+a = 20
+b = 10
+
+algorithm //
+step 1: take a variable and call it x or c
+step 2: c = a i.e take the value of a (20) and give it to c a now value of c is (20)
+step 3: a = b that is, take the value of b(10) and give to a so that a will become 10
+step 4: b = c that is, take the value of c(20) and give to b so that b will be 20
+
+
+output // the output is a gets 10 and b gets 20 after the swapping
+a = 10
+b = 20
+
+Task N.2: I still want to swap the numbers between a and b, but without c
+a = 20
+b = 10
+
+algorithm//
+step 1: i will use compounding techniques for swapping
+a = a + b // i am simply adding up the two variables 20 + 10= 30 which is the current val of a
+step 2: b = a - b  // now the new value of a is 30 and b is 10, 30 - 10 becomes the new value of b which is 20
+step 3: a = a - b // since the value of a is 30 and the new value of b is 20, 30 - 20 = 10 becomes the new value of a
+
+Task N.3: take any random number and check whether that given number is prime or not
+note: number greater than 1 that can only be divided evenly by 1 and itself
+
+algorithm// homework for this week
+
+
