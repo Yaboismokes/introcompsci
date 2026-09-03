@@ -1,0 +1,14 @@
+What are sequential operations?
+Sequential operations are tasks or calculations that occur in a specific, strict order, one after the other
+
+What are conditional operations?
+Conditional operations are programming tools that check a test statement and run specific code depending on whether that test is true or false
+
+What is iteration?
+Running the same block of code or instructions again and again until a specific condition is met (often called a loop).
+
+What is a computing agent?
+A computing agent (often called an intelligent agent or computer-use agent) is an autonomous software program that perceives its environment, makes decisions, and takes actions to complete specific goals
+
+Are there any problems that can’t be solved algorithmically? 
+Yes, there are formal problems that cannot be solved algorithmically, and computer scientists call them undecidable problems
